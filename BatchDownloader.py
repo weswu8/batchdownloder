@@ -1,7 +1,17 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
-# version 1.0 2015.09.07
+########################################################################
+# Name:
+# 		BatchDownloader.py
+# Description:
+# 		GUI tools, it will download the files according with a list of urls.
+# Author:
+# 		wuwesley
+# Python:
+#       3.0+
+# Version:
+#		1.0
+########################################################################
 
 from tkinter import *
 from tkinter import ttk
