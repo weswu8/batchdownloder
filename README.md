@@ -19,7 +19,9 @@ Python : python 3
 
 Installation
 ====
-### step 1. down load the tools
+### step 1.
+    sudo pip install tkinter
+    down load the tools
 ### step 2. edit the configuration
     [DEFAULT]
     ; the number of concurrent threads
